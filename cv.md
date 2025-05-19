@@ -1,7 +1,7 @@
 # 👋 Bienvenue !
 
 Je suis technicien systèmes & réseaux et développeur freelance, avec une approche hybride entre ingénierie, IA générative et création numérique.  
-Actuellement, je développe [AUDIT_GENAI](lien), une plateforme open source pour l’audit automatisé des systèmes d’information.
+Actuellement, je développe [AUDIT_GENAI](https://github.com/humanologue/audit-genai-public.git), une plateforme open source pour l’audit automatisé des systèmes d’information.
 
 ## 🛠️ Compétences techniques
 
