@@ -13,7 +13,7 @@ Actuellement, je développe [AUDIT_GENAI](https://github.com/humanologue/audit-g
 
 ## 📌 Projets en cours
 
-- 🔍 **[AUDIT_GENAI](lien vers repo)** : plateforme IA-assistée d’audit documentaire SI
+- 🔍 **[AUDIT_GENAI](https://github.com/humanologue/audit-genai-public.git)** : plateforme IA-assistée d’audit documentaire SI
 - 🎨 **Création IA** : expérimentations avec [Stable Diffusion], [DaVinci Resolve], [Suno]
 
 ## 🎓 Parcours
