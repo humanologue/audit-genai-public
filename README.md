@@ -59,4 +59,4 @@ For any questions, collaboration, or user feedback:
 - This repository does not contain any sensitive deployment code.  
 - The actual infrastructure or real IT data is neither included nor described here.  
 - This is a freely reusable and extensible MVP.
-```
+
