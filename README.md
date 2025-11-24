@@ -52,7 +52,7 @@ AGPL v3 — Free software with strong reciprocity. Any reuse or public modificat
 ## 📬 Contact
 
 For any questions, collaboration, or user feedback:  
-📧 [humanologue@gmail.com](mailto:human@humanologic.com)  
+📧 [human@humanologic.com](mailto:human@humanologic.com)  
 
 ## 📌 Notes
 
